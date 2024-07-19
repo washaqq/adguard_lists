@@ -1,4 +1,11 @@
-#
+!
+! Title: Washaq DNS filter
+! Description: 
+! Version: 1.0.0.1
+! Homepage: https://github.com/washaqq/adguard_lists/
+! Last modified: 2024-07-19
+!
+# KOTU NİYETLİ SİTELER
 #
 #
 ||19216811.AAA^
