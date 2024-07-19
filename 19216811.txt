@@ -5,7 +5,7 @@
 ! Homepage: https://github.com/washaqq/adguard_lists/
 ! Last modified: 2024-07-19
 !
-# KOTU NİYETLİ SİTELER
+# KÖTÜ NİYETLİ SİTELER
 #
 #
 ||19216811.AAA^
