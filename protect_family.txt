@@ -8,3 +8,5 @@ Adblock Plus Style Comprehensive Blocking List (Including All TLDs and Subdomain
 ||betway.^
 ||betano.^
 ||betfair.^
+||misli.^
+||slomoparty.^
