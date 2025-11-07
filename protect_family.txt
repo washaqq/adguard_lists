@@ -1,0 +1,10 @@
+Adblock Plus Style Comprehensive Blocking List (Including All TLDs and Subdomains)
+! These Custom filters block all network requests made to the root names listed.
+
+||onlyfans.^
+||pof.^
+||tiktok.^
+||tinder.^
+||betway.^
+||betano.^
+||betfair.^
